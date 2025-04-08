@@ -5,11 +5,11 @@ cars = ['Ford', 'Chrysler', 'Dodge', 'Ram', 'Jeep', 'Chevy', 'GMC']
 # problem 3. print the array to the console
 print(cars)
 # problem 4. print the length of the array to the console
-
+print(len(cars))
 # problem 5. Append Buick to the Array
-
+cars.append('Buick')
 # problem 6. print the array to the console
-
+print(cars)
 # problem 7. Print the 4th element in the array (Not index 4, element 4)
 
 # problem 8. Insert 'Toyota' into element 3 in the array
